@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# Output files
+outputs/
+
+# Python cache
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large datasets (optional)
+*.csv
